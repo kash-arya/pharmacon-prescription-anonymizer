@@ -1,5 +1,10 @@
-# Mentor State
 project: Pharmacon Prescription Anonymizer
-last_git_hash: 87fe9cb0821163d681db14cbfb9c0098f22f1171
-last_updated: 2026-10-31T13:27:32+05:30
-last_updated_blocks: [Block 0, Block 1, Block 2, Block 3, Block 4, Block 5, Block 6, Block 7, Block 8, Block 9]
+target: Academic Viva & Placement Interview
+interview_date: none
+triage: no
+session_n: 1
+last_git_hash: 6fa8af1d27c6a56b5029a91c4832db1f1b312c6d
+active_blocks: [B1, B2, B3, B4, B5, B6, B7, B8, B9, B10]
+guide_progress: complete
+tier_overrides: none
+last_mock_score: none
