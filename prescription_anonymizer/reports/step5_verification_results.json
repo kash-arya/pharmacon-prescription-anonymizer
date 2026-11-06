@@ -1,0 +1,120 @@
+{
+  "all_passed": true,
+  "startup_rss_mb": 192.22,
+  "max_peak_rss_mb": 368.09,
+  "round1_max_peak_mb": 350.33,
+  "round2_max_peak_mb": 357.43,
+  "drift_mb": 7.1,
+  "results": [
+    {
+      "status_code": 200,
+      "elapsed_ms": 4166.3,
+      "peak_rss_mb": 314.04,
+      "idle_rss_mb": 289.58,
+      "triage_status": "AUTO_APPROVED",
+      "entities": 24,
+      "detail": "",
+      "round": "Round 1",
+      "name": "WhatsApp Image 2026-11-05 at 07.15.55.jpeg"
+    },
+    {
+      "status_code": 200,
+      "elapsed_ms": 2800.9,
+      "peak_rss_mb": 341.63,
+      "idle_rss_mb": 291.37,
+      "triage_status": "AUTO_APPROVED",
+      "entities": 18,
+      "detail": "",
+      "round": "Round 1",
+      "name": "WhatsApp Image 2026-11-05 at 07.15.56.jpeg"
+    },
+    {
+      "status_code": 200,
+      "elapsed_ms": 3111.2,
+      "peak_rss_mb": 344.84,
+      "idle_rss_mb": 292.42,
+      "triage_status": "NEEDS_HUMAN_REVIEW",
+      "entities": 33,
+      "detail": "",
+      "round": "Round 1",
+      "name": "24b7b6cb-2446-49cf-b13c-2b63a74d6446.jpeg"
+    },
+    {
+      "status_code": 200,
+      "elapsed_ms": 2304.1,
+      "peak_rss_mb": 350.33,
+      "idle_rss_mb": 294.5,
+      "triage_status": "NOT_A_PRESCRIPTION",
+      "entities": 0,
+      "detail": "",
+      "round": "Round 1",
+      "name": "3Q15_Timetable_SemV.png"
+    },
+    {
+      "status_code": 200,
+      "elapsed_ms": 3403.3,
+      "peak_rss_mb": 348.97,
+      "idle_rss_mb": 296.79,
+      "triage_status": "AUTO_APPROVED",
+      "entities": 24,
+      "detail": "",
+      "round": "Round 2",
+      "name": "WhatsApp Image 2026-11-05 at 07.15.55.jpeg"
+    },
+    {
+      "status_code": 200,
+      "elapsed_ms": 2492.6,
+      "peak_rss_mb": 349.57,
+      "idle_rss_mb": 296.66,
+      "triage_status": "AUTO_APPROVED",
+      "entities": 18,
+      "detail": "",
+      "round": "Round 2",
+      "name": "WhatsApp Image 2026-11-05 at 07.15.56.jpeg"
+    },
+    {
+      "status_code": 200,
+      "elapsed_ms": 3133.9,
+      "peak_rss_mb": 348.9,
+      "idle_rss_mb": 296.82,
+      "triage_status": "NEEDS_HUMAN_REVIEW",
+      "entities": 33,
+      "detail": "",
+      "round": "Round 2",
+      "name": "24b7b6cb-2446-49cf-b13c-2b63a74d6446.jpeg"
+    },
+    {
+      "status_code": 200,
+      "elapsed_ms": 2069.3,
+      "peak_rss_mb": 357.43,
+      "idle_rss_mb": 295.62,
+      "triage_status": "NOT_A_PRESCRIPTION",
+      "entities": 0,
+      "detail": "",
+      "round": "Round 2",
+      "name": "3Q15_Timetable_SemV.png"
+    },
+    {
+      "status_code": 200,
+      "elapsed_ms": 4819.3,
+      "peak_rss_mb": 358.97,
+      "idle_rss_mb": 298.29,
+      "triage_status": "AUTO_APPROVED",
+      "entities": 22,
+      "detail": "",
+      "round": "Round 3",
+      "name": "Aryan Sept 24.jpg"
+    },
+    {
+      "status_code": 200,
+      "elapsed_ms": 3627.1,
+      "peak_rss_mb": 368.09,
+      "idle_rss_mb": 299.96,
+      "triage_status": "AUTO_APPROVED",
+      "entities": 26,
+      "detail": "",
+      "round": "Round 3",
+      "name": "Aryan March 26.jpg"
+    }
+  ]
+}
