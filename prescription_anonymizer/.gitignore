@@ -108,9 +108,35 @@ outputs/**/*.tmp
 viewer/*.html
 **/viewer/*.html
 
-# Temporary Audit Exports & Work Notes
+# Temporary Audit Exports, Design Dossiers & Work Notes
 WORKSPACE_REMAINING_FILES.md
 notes/
+**/PROJECT_STATE_AND_EXPERIMENT_LOG.md
+PROJECT_STATE_AND_EXPERIMENT_LOG.md
 **/PHARMACON_CONCEPTUAL_MASTER_STUDY_GUIDE.md
 **/Pharmacon_Commitment_Pitch.pptx
 **/Pharmacon_Writer_Calibration_Protocol.pdf
+
+# Internal Mentor, Decision Ledger & Study Guides (v3)
+.mentor/
+**/.mentor/
+docs/study_guide.md
+**/docs/study_guide.md
+docs/interview-ready-report.md
+**/docs/interview-ready-report.md
+
+# Sensitive Patient Prescriptions (PII Protection)
+**/data/real_phone_prescriptions/
+**/data/samples/
+**/data/tssdata/
+**/data/raw_public_slips/
+**/data/unseen_holdout/
+
+# Evaluation Output Comparisons (Contains Unmasked Original Prescriptions)
+outputs/
+**/outputs/
+reports/
+**/reports/
+logs/
+**/logs/
+

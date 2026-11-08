@@ -109,9 +109,11 @@ outputs/**/*.tmp
 viewer/*.html
 **/viewer/*.html
 
-# Temporary Audit Exports & Work Notes
+# Temporary Audit Exports, Design Dossiers & Work Notes
 WORKSPACE_REMAINING_FILES.md
 notes/
+**/PROJECT_STATE_AND_EXPERIMENT_LOG.md
+PROJECT_STATE_AND_EXPERIMENT_LOG.md
 **/PHARMACON_CONCEPTUAL_MASTER_STUDY_GUIDE.md
 **/Pharmacon_Commitment_Pitch.pptx
 **/Pharmacon_Writer_Calibration_Protocol.pdf
