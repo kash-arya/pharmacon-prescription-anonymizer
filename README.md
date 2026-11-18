@@ -7,7 +7,7 @@
 
 ## 1. Overview & Core Design Principle
 
-Clinical prescriptions have a strict de-identification requirement: you must remove every trace of patient identity while leaving every medical instruction intact. If an anonymizer blacks out an active drug, dosage, or frequency instruction, the resulting document is clinically useless for research and training.
+Clinical prescriptions generally have a strict de-identification requirement: you must remove every trace of patient identity while leaving every medical instruction intact. If an anonymizer blacks out an active drug, dosage, or frequency instruction, the resulting document is clinically useless for research and training.
 
 Pharmacon enforces an asymmetric redaction boundary:
 
